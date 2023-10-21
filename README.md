@@ -1,1 +1,1 @@
-Código para dar olá aos membros da struct.
+Código para dar tchau aos membros da struct.
